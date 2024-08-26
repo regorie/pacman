@@ -1,2 +1,0 @@
-A Unified Theory of Decentralized SGD with Changing Topology and Local Updates
-https://arxiv.org/abs/2003.10422
